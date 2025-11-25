@@ -14,7 +14,7 @@
 ## 🧠 Key Features
 - 🔹Controller consists of telescoping arms that allow the disks (evenly spaced points on the middle axis) to move positions and rotate.
 - 🔹Each disk has a "controller ring" that can twist. These also have buttons on the sides that allow for changing airfoil properties.
-
+  [![3D Preview](images/render.jpg)](STL/ASSM.STL)
 ---
 
 ## 🛠️ Technical Details
